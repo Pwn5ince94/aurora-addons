@@ -2,6 +2,16 @@
   "version": 1,
   "addons": [
     {
+      "id": "cinemeta",
+      "name": "Cinemeta",
+      "description": "The official Stremio metadata addon for movies and TV shows.",
+      "manifestUrl": "https://v3-cinemeta.strem.io/manifest.json",
+      "category": "metadata",
+      "developer": "Stremio",
+      "official": true,
+      "featured": true
+    },
+    {
       "id": "opensubtitles-v3",
       "name": "OpenSubtitles v3",
       "description": "Subtitles from OpenSubtitles.org for every common language.",
@@ -12,13 +22,13 @@
       "featured": true
     },
     {
-      "id": "Streaming Catalogs",
+      "id": "streaming-catalogs",
       "name": "Streaming Catalogs",
-      "description": "Trending movies and series on Netflix, HBO Max, Disney+, Hulu and more. Configure to choose your favourite services.",
+      "description": "Trending movies and series on Netflix, HBO Max, Disney+, Hulu and more. Configurable to your favourite services.",
       "manifestUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAscGNwLGhsdSxjcnUsc2hhOjo6MTc3ODk3ODczMTAyMjowOjA6QUU%3D/manifest.json",
-      "category": "metadata",
-      "developer": "Stremio",
-      "official": true,
+      "category": "catalog",
+      "developer": "Community",
+      "official": false,
       "featured": true
     },
     {
@@ -28,15 +38,6 @@
       "manifestUrl": "https://anime-kitsu.strem.fun/manifest.json",
       "category": "metadata",
       "developer": "Kitsu",
-      "official": true
-    }
-    {
-      "id": "t0",
-      "name": "t0",
-      "description": "metadata.",
-      "manifestUrl": "https://comet.elfhosted.com/eyJtYXhSZXN1bHRzUGVyUmVzb2x1dGlvbiI6MCwibWF4U2l6ZSI6MCwiY2FjaGVkT25seSI6ZmFsc2UsInNvcnRDYWNoZWRVbmNhY2hlZFRvZ2V0aGVyIjpmYWxzZSwicmVtb3ZlVHJhc2giOnRydWUsInJlc3VsdEZvcm1hdCI6WyJhbGwiXSwiZGVicmlkU2VydmljZXMiOltdLCJlbmFibGVUb3JyZW50IjpmYWxzZSwiZGVkdXBsaWNhdGVTdHJlYW1zIjpmYWxzZSwic2NyYXBlRGVicmlkQWNjb3VudFRvcnJlbnRzIjpmYWxzZSwiZGVicmlkU3RyZWFtUHJveHlQYXNzd29yZCI6IiIsImxhbmd1YWdlcyI6eyJyZXF1aXJlZCI6W10sImFsbG93ZWQiOltdLCJleGNsdWRlIjpbXSwicHJlZmVycmVkIjpbXX0sInJlc29sdXRpb25zIjp7fSwib3B0aW9ucyI6eyJyZW1vdmVfcmFua3NfdW5kZXIiOi0xMDAwMDAwMDAwMCwiYWxsb3dfZW5nbGlzaF9pbl9sYW5ndWFnZXMiOmZhbHNlLCJyZW1vdmVfdW5rbm93bl9sYW5ndWFnZXMiOmZhbHNlfX0=/manifest.json",
-      "category": "metadata",
-      "developer": "wow",
       "official": true
     }
   ]
