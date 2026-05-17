@@ -22,6 +22,16 @@
       "featured": true
     },
     {
+      "id": "Streaming Catalogs",
+      "name": "Streaming Catalogs",
+      "description": "Trending movies and series on Netflix, HBO Max, Disney+, Hulu and more. Configure to choose your favourite services.",
+      "manifestUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAscGNwLGhsdSxjcnUsc2hhOjo6MTc3ODk3ODczMTAyMjowOjA6QUU%3D/manifest.json",
+      "category": "metadata",
+      "developer": "Stremio",
+      "official": true,
+      "featured": true
+    },
+    {
       "id": "anime-kitsu",
       "name": "Anime Kitsu",
       "description": "Anime metadata and catalogs from Kitsu.io.",
