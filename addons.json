@@ -2,16 +2,6 @@
   "version": 1,
   "addons": [
     {
-      "id": "cinemeta",
-      "name": "Cinemeta",
-      "description": "The official Stremio metadata addon for movies and TV shows.",
-      "manifestUrl": "https://v3-cinemeta.strem.io/manifest.json",
-      "category": "metadata",
-      "developer": "Stremio",
-      "official": true,
-      "featured": true
-    },
-    {
       "id": "opensubtitles-v3",
       "name": "OpenSubtitles v3",
       "description": "Subtitles from OpenSubtitles.org for every common language.",
